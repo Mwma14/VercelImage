@@ -1,0 +1,5 @@
+{
+  "name": "bot-image-proxy",
+  "version": "1.0.0",
+  "description": "Vercel HTTPS proxy for Telegram bot image server at http://2.56.246.128:30200"
+}
